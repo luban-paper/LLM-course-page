@@ -6,7 +6,3 @@ items:
 - url: /lectures/
   name: Lectures
   icon_class: fas fa-book-reader
-
-- url: /materials/
-  name: Materials
-  icon_class: fas fa-book
