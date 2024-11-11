@@ -3,7 +3,7 @@ course_name: 大模型研讨课
 course_description: ""
 course_semester: "2024"
 
-baseurl: "/llm-course-page" # the subpath of your site, e.g. /blog/
+baseurl: "/LLM-course-page" # the subpath of your site, e.g. /blog/
 url: "http://luban-paper.github.io/" # the base hostname & protocol for your site
 
 schoolname: "处理器芯片重点实验室"
